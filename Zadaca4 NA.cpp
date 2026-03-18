@@ -3,6 +3,8 @@
 #include <exception>
 #include <cmath>
 #include <limits>
+//Komentar Dino Tahirovic
+
 const double PI=4*std::atan(1);
 class ChebyshevApproximation{
 double xmin;
