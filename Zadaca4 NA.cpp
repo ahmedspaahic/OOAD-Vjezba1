@@ -5,6 +5,8 @@
 #include <limits>
 //Komentar Dino Tahirovic
 //Komentar Imran
+// Komentar Amir Džafić
+
 const double PI=4*std::atan(1);
 class ChebyshevApproximation{
 double xmin;
